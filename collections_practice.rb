@@ -32,7 +32,7 @@ end
 
 def find_a(array)
   array = string
-array.find do |a|
-array =  string.start_with?("a")
+string.find do |a|
+string.start_with?("a")
   end
 end
