@@ -37,5 +37,5 @@ word.start_with?("a")
 end
 
 def sum_array(array)
-  array.inject { |result, number| result + number }
+  array.inject
   end
