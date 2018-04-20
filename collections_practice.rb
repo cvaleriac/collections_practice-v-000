@@ -32,5 +32,5 @@ end
 
 def find_a(array)
   array = [" "]
-[" "].find { |word|  a.start_with?  }
+array.find { |a|  a.start_with?  }
 end
