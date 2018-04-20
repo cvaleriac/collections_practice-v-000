@@ -31,8 +31,7 @@ def kesha_maker(array)
 end
 
 def find_a(array)
-array.find do |a|
-array_a =  a.start_with?
+array = array.find do |a| a.start_with?
   end
-  return array_a
+  return array
 end
