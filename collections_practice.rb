@@ -9,3 +9,14 @@ def sort_array_desc(array)
     b <=> a
   end
 end
+
+def sort_array_char_count(array)
+  array.sort do |array.length, a, b|
+    a <=> begin
+    end
+  end
+  
+    rescue ExceptionName
+      
+    end
+    
