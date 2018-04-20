@@ -35,3 +35,7 @@ array.find_all do |word|
 word.start_with?("a")
   end
 end
+
+def sum_array(array)
+  array.inject(0) { |result, element| result + element }
+  end
