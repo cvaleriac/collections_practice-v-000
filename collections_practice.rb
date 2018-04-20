@@ -19,4 +19,3 @@ def sort_array_char_count(array)
     rescue ExceptionName
 
     end
-    
